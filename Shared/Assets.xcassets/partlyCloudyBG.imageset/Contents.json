@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "jake-weirick-BN42RzH07vI-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "jake-weirick-BN42RzH07vI-unsplash-1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "jake-weirick-BN42RzH07vI-unsplash-2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
